@@ -1,5 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinochan K B
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Vinochan K B
 ====================================================================================================================================
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinochankb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+###
 
 ML Engineering & UI/UX Designer
 -------------------------------
